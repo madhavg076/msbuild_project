@@ -1,0 +1,15 @@
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.exe
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.deps.json
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.runtimeconfig.json
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.dll
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.pdb
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.csproj.AssemblyReference.cache
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.GeneratedMSBuildEditorConfig.editorconfig
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.AssemblyInfoInputs.cache
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.AssemblyInfo.cs
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.csproj.CoreCompileInputs.cache
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.dll
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\refint\ConsoleAppJenkins.dll
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.pdb
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.genruntimeconfig.cache
+E:\05.02.22\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ref\ConsoleAppJenkins.dll
